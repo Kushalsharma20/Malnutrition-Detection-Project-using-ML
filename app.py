@@ -4,6 +4,7 @@ from fastapi import FastAPI
 import joblib
 import pandas as pd
 
+
 # Create the app object
 app = FastAPI()
 
